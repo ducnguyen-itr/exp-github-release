@@ -3,6 +3,8 @@ changelog:
     - title: "✨ New Features"
       labels:
         - enhancement
+      exclude:
+        issues: true
     - title: "🚀 Improvements"
       labels:
         - improvement
