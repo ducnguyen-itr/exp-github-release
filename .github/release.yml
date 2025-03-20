@@ -14,7 +14,7 @@ changelog:
         - breaking-change
     - title: "🔀 Pull requests"
       labels:
-        - "*"
+        - release
     - title: "Other Changes"
       labels:
         - "*"
