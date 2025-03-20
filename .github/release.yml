@@ -3,8 +3,6 @@ changelog:
     - title: "✨ New Features"
       labels:
         - enhancement
-      exclude:
-        issues: true
     - title: "🚀 Improvements"
       labels:
         - improvement
@@ -20,6 +18,6 @@ changelog:
     - title: "Other Changes"
       labels:
         - "*"
-  # exclude:
-  #   issues: false # Ensure issues are included
-  #   pull_requests: false # Ensure PRs are included
+  exclude:
+    issues: false # Ensure issues are included
+    pull_requests: false # Ensure PRs are included
