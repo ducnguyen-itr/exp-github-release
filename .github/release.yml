@@ -12,12 +12,12 @@ changelog:
     - title: "⚠️ Breaking Changes"
       labels:
         - breaking-change
-    - title: "🔀 Pull requests"
+    - title: "🔀 Release Pull requests"
       labels:
         - release
     - title: "Other Changes"
       labels:
-        - "*"
+        - "*" # Any other label
   exclude:
     issues: false # Ensure issues are included
     pull_requests: true # Ensure PRs are included
