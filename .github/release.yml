@@ -1,14 +1,19 @@
 changelog:
   categories:
-    - title: ✨ New Features
+    - title: "✨ New Features"
       labels:
         - enhancement
-    - title: 🚀 Improvements
+    - title: "🚀 Improvements"
       labels:
         - improvement
-    - title: 🐞 Bug Fixes
+    - title: "🐞 Bug Fixes"
       labels:
         - bug
-    - title: ⚠️ Breaking Changes
+    - title: "⚠️ Breaking Changes"
       labels:
         - breaking-change
+    - title: "🔀 Pull requests"
+      labels: []
+  exclude:
+    issues: false # Ensure issues are included
+    pull_requests: false # Ensure PRs are included
