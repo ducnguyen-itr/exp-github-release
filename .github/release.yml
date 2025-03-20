@@ -18,6 +18,8 @@
 #     issues: false # Ensure issues are included
 #     pull_requests: false # Ensure PRs are included
 
+# .github/release.yml
+
 changelog:
   categories:
     - title: 🏕 Features
