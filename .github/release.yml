@@ -2,10 +2,10 @@ changelog:
   categories:
     - title: ✨ New Features
       labels:
-        - new-feature
+        - enhancement
     - title: 🚀 Improvements
       labels:
-        - improvements
+        - improvement
     - title: 🐞 Bug Fixes
       labels:
         - bug
