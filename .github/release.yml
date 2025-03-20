@@ -2,8 +2,7 @@ changelog:
   categories:
     - title: "✨ New Features"
       labels:
-        []
-        # - enhancement
+        - enhancement
     - title: "🚀 Improvements"
       labels:
         - improvement
