@@ -2,7 +2,8 @@ changelog:
   categories:
     - title: "✨ New Features"
       labels:
-        - enhancement
+        []
+        # - enhancement
     - title: "🚀 Improvements"
       labels:
         - improvement
@@ -20,4 +21,4 @@ changelog:
         - "*"
   exclude:
     issues: false # Ensure issues are included
-    pull_requests: false # Ensure PRs are included
+    pull_requests: true # Ensure PRs are included
