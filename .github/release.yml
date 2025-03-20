@@ -1,33 +1,23 @@
-# changelog:
-#   categories:
-#     - title: "✨ New Features"
-#       labels:
-#         - enhancement
-#     - title: "🚀 Improvements"
-#       labels:
-#         - improvement
-#     - title: "🐞 Bug Fixes"
-#       labels:
-#         - bug
-#     - title: "⚠️ Breaking Changes"
-#       labels:
-#         - breaking-change
-#     - title: "🔀 Pull requests"
-#       labels: []
-#   exclude:
-#     issues: false # Ensure issues are included
-#     pull_requests: false # Ensure PRs are included
-
-# .github/release.yml
-
 changelog:
   categories:
-    - title: 🏕 Features
+    - title: "✨ New Features"
+      labels:
+        - enhancement
+    - title: "🚀 Improvements"
+      labels:
+        - improvement
+    - title: "🐞 Bug Fixes"
+      labels:
+        - bug
+    - title: "⚠️ Breaking Changes"
+      labels:
+        - breaking-change
+    - title: "🔀 Pull requests"
       labels:
         - "*"
-      exclude:
-        labels:
-          - dependencies
-    - title: 👒 Dependencies
+    - title: "Other Changes"
       labels:
-        - dependencies
+        - "*"
+  # exclude:
+  #   issues: false # Ensure issues are included
+  #   pull_requests: false # Ensure PRs are included
