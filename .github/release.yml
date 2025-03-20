@@ -21,3 +21,4 @@ changelog:
   exclude:
     issues: false # Ensure issues are included
     pull_requests: true # Ensure PRs are included
+  contributors: true # Enables listing contributors in release notes
